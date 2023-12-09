@@ -1,4 +1,0 @@
-rgregre
-rgregregre
-globalg
-ResourceWarningerg
